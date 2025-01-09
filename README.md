@@ -1,4 +1,4 @@
-## Oiii eu sou o Samuel Rosa!
+## Olá, eu sou o Samuel Rosa!
 
 💼Trabalho como técnico de Informática<br>
 🎓Atualmente estou estudando programação
